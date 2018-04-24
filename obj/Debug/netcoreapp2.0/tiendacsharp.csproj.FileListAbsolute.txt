@@ -1,0 +1,10 @@
+F:\TiendaWeb\tiendacsharp\obj\Debug\netcoreapp2.0\tiendacsharp.csproj.CoreCompileInputs.cache
+F:\TiendaWeb\tiendacsharp\obj\Debug\netcoreapp2.0\tiendacsharp.AssemblyInfoInputs.cache
+F:\TiendaWeb\tiendacsharp\obj\Debug\netcoreapp2.0\tiendacsharp.AssemblyInfo.cs
+F:\TiendaWeb\tiendacsharp\bin\Debug\netcoreapp2.0\tiendacsharp.deps.json
+F:\TiendaWeb\tiendacsharp\bin\Debug\netcoreapp2.0\tiendacsharp.runtimeconfig.json
+F:\TiendaWeb\tiendacsharp\bin\Debug\netcoreapp2.0\tiendacsharp.runtimeconfig.dev.json
+F:\TiendaWeb\tiendacsharp\bin\Debug\netcoreapp2.0\tiendacsharp.dll
+F:\TiendaWeb\tiendacsharp\bin\Debug\netcoreapp2.0\tiendacsharp.pdb
+F:\TiendaWeb\tiendacsharp\obj\Debug\netcoreapp2.0\tiendacsharp.dll
+F:\TiendaWeb\tiendacsharp\obj\Debug\netcoreapp2.0\tiendacsharp.pdb

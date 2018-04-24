@@ -1,4 +1,8 @@
 ﻿using System;
+using AdministrarBD;
+using System.Data.SqlClient;
+using MySql.Data.MySqlClient;
+
 
 namespace tiendacsharp
 {
@@ -6,7 +10,11 @@ namespace tiendacsharp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hola mundo");
-        }
+
+           BDAdmin conexion = new BDAdmin();
+
+           conexion.obtenerDatos();
+
+           }
     }
 }
